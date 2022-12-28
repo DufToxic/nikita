@@ -10,6 +10,7 @@
  - id;
  - id_role;
  - login.
+ 
  В таблицу role определены следующие поля:
  - id_role;
  - name;
